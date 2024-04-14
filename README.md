@@ -1,4 +1,4 @@
-# course
+# Pizza Planet
 
 A new Flutter project.
 
