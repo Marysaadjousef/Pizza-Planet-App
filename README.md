@@ -1,4 +1,4 @@
-# Pizza Planet
+# pizza_planet
 
 A new Flutter project.
 
